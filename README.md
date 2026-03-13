@@ -13,4 +13,9 @@
     <td>SQL</td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Assembly</td>
+    <td>67</td>
+  </tr>
 </table>
