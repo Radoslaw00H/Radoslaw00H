@@ -14,9 +14,7 @@
 
 <h2 align="center">Projects</h2>
 
-<ul align="center" style="list-style:none;">
-  <li>🔒 secret</li>
-</ul>
+<p align="center">🔒 secret</p>
 
 <h2 align="center">Tech Stack</h2>
 
