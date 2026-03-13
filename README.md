@@ -1,9 +1,9 @@
 # Radoslaw00H
 
 ## Tech Stack
-• C
-• C++
-• COBOL
-• Java
-• SQL
+• C<br>
+• C++<br>
+• COBOL<br>
+• Java<br>
+• SQL<br>
 • JavaScript
