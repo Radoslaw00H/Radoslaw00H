@@ -1,4 +1,3 @@
-<center>
 # Radoslaw00H
 
 ## Tech Stack
@@ -8,6 +7,9 @@
 • Java<br>
 • SQL<br>
 • JavaScript
+<fieldset>
+  <legend>One</legend>
+</fieldset>
 <table border="1">
   <tr>
     <td></td>
@@ -15,4 +17,3 @@
     <td></td>
   </tr>
 </table>
-</center>
