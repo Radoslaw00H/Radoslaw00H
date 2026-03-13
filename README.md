@@ -31,3 +31,13 @@
     <td align="center"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
   </tr>
 </table>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  👋 Hi! I'm 18 and passionate about IT and FinTech, especially <strong>Core Banking</strong>.<br>
+  💻 I'm eager to master my tech stack (C, C++, COBOL, Java, SQL, JavaScript, HTML, PHP, Assembly).<br>
+  🌱 Always willing to learn and work on projects with <strong>real-life impact</strong>.<br>
+  🖥 My goals: z/OS and mainframes in FinTech.<br>
+  🚀 Excited to grow, innovate, and make technology matter!
+</p>
